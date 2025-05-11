@@ -1,0 +1,26 @@
+Machine Learning Engineering Bootcamp Capstone Project: Share Your Project with the World 
+Step 12
+Learning Objective
+
+Demonstrate the ability to effectively present a machine learning project by articulating the problem addressed, detailing the chosen approach, and showcasing the implementation through code and visual aids.
+
+Criteria
+Meets Expectations
+Weightage
+Time Estimate
+2 - 4 Hours
+
+
+Completion
+Share a link to a GitHub repository containing all code for model development and deployment. (1 point)
+Share a link to a visual manifestation of the project, whether this be an API, data visualization, or some other interface for interacting with the project. (1 point)
+2 points
+Process and understanding
+Demonstrate a holistic presentation that captures all steps in the machine learning life-cycle from problem statement to solution consisting of a deployed machine learning model users can interact with. (6 points)
+6 points
+Presentation
+A GitHub repository (1 point)
+An interface for interacting with the machine learning model (1 point)
+2 points
+
+
